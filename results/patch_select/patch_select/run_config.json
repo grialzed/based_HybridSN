@@ -1,0 +1,46 @@
+{
+  "arguments": {
+    "mode": "window",
+    "data_dir": "data",
+    "output_dir": "results/patch_select",
+    "pca_components": [
+      15,
+      30,
+      40
+    ],
+    "window_sizes": [
+      21,
+      23,
+      25,
+      27,
+      29
+    ],
+    "fixed_window": 25,
+    "fixed_components": 30,
+    "epochs": 100,
+    "batch_size": 32,
+    "lr": 0.001,
+    "seeds": [
+      11,
+      22,
+      33
+    ],
+    "split_seed": 345,
+    "train_ratio": 0.1,
+    "val_ratio": 0.1,
+    "aa_tolerance": 0.0,
+    "device": "cuda",
+    "amp": false,
+    "final_test": true
+  },
+  "device": "NVIDIA GeForce RTX 4090",
+  "torch": "2.5.0+cu118",
+  "scikit_learn": "1.7.2",
+  "data_shape": [
+    145,
+    145,
+    200
+  ],
+  "split": "stratified centers from one scene",
+  "selection": "highest validation AA; then fewest parameters within the AA tolerance in percentage points"
+}

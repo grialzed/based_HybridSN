@@ -1,0 +1,17 @@
+﻿pca_components,window_size,class_id,class,validation_pixels,val_recall_mean_pct,val_recall_sd_pp
+30,25,1,Alfalfa,4,100.0,0.0
+30,25,2,Corn-notill,143,95.1048951048951,0.0
+30,25,3,Corn-mintill,83,96.3855421686747,0.0
+30,25,4,Corn,24,100.0,0.0
+30,25,5,Grass-pasture,48,95.83333333333333,0.0
+30,25,6,Grass-trees,73,100.0,0.0
+30,25,7,Grass-pasture-mowed,3,100.0,0.0
+30,25,8,Hay-windrowed,48,100.0,0.0
+30,25,9,Oats,2,100.0,0.0
+30,25,10,Soybean-notill,97,100.0,0.0
+30,25,11,Soybean-mintill,245,99.59183673469387,0.0
+30,25,12,Soybean-clean,59,96.61016949152543,0.0
+30,25,13,Wheat,21,100.0,0.0
+30,25,14,Woods,127,100.0,0.0
+30,25,15,Buildings-Grass-Trees-Drives,39,100.0,0.0
+30,25,16,Stone-Steel-Towers,9,88.88888888888889,0.0

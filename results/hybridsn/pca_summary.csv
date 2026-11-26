@@ -1,0 +1,2 @@
+﻿pca_components,window_size,cumulative_variance_pct,val_oa_mean_pct,val_oa_sd_pp,val_aa_mean_pct,val_aa_sd_pp,parameters,train_seconds_per_epoch,val_patch_overlap_pct,seed_count,highest_aa,recommended
+30,25,99.40567499384908,97.8211382113821,0.5373239558327928,97.29236805835404,1.007447226095523,5122176,1.5234686383333316,99.97009403587907,3,True,True

@@ -1,0 +1,17 @@
+﻿class_id,class,train,validation,test
+1,Alfalfa,5,4,37
+2,Corn-notill,143,143,1142
+3,Corn-mintill,83,83,664
+4,Corn,24,24,189
+5,Grass-pasture,48,48,387
+6,Grass-trees,73,73,584
+7,Grass-pasture-mowed,3,3,22
+8,Hay-windrowed,48,48,382
+9,Oats,2,2,16
+10,Soybean-notill,97,97,778
+11,Soybean-mintill,245,245,1965
+12,Soybean-clean,59,59,475
+13,Wheat,20,21,164
+14,Woods,126,127,1012
+15,Buildings-Grass-Trees-Drives,39,39,308
+16,Stone-Steel-Towers,9,9,75

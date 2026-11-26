@@ -1,0 +1,2 @@
+﻿pca_components,window_size,seed,best_epoch,val_oa_pct,val_aa_pct,train_seconds_per_epoch
+30,25,11,93,98.4390243902439,98.2759166076257,1.5190136579999998
